@@ -1,0 +1,6 @@
+﻿  Admin.cpp
+C:\Users\zxy\Desktop\计算机专业课\高程2021\课程设计\Advanced_Student_Information_Management_System\Admin.cpp(26,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zxy\Desktop\计算机专业课\高程2021\课程设计\Advanced_Student_Information_Management_System\Admin.cpp(42,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zxy\Desktop\计算机专业课\高程2021\课程设计\Advanced_Student_Information_Management_System\Admin.cpp(81,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zxy\Desktop\计算机专业课\高程2021\课程设计\Advanced_Student_Information_Management_System\Admin.cpp(116,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Advanced_Student_Information_Management_System.vcxproj -> C:\Users\zxy\Desktop\计算机专业课\高程2021\课程设计\Advanced_Student_Information_Management_System\x64\Debug\Advanced_Student_Information_Management_System.exe
